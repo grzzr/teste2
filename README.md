@@ -1,5 +1,7 @@
 # Repositório teste
 
+projeto com [manual](manual.html)
+
 Apagar este repositório em 24h
 
 
